@@ -9,7 +9,7 @@ let score=0;
 let hiscore=0;
 
 // board=document.getElementsByClassName('board');
-let speed = 5;
+let speed = 6;
 let lastpainttime = 0;
 let snakearray = [
     { x: 13, y: 15 }

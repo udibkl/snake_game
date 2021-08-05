@@ -4,7 +4,7 @@
   margin: 0;
   background-repeat: no-repeat;
   
-  background-size: 1328px;
+  background-size: cover;
   background-position-y: -165px;
   background-image: url(img/bg.jpg);
 }

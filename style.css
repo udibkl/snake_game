@@ -58,6 +58,7 @@
 
 #score 
 {
+    font-family: 'New Tegomin', serif;
   position: absolute;
   top:15px;
   right:69px;
@@ -66,11 +67,13 @@
 
 #num,#hi
 {
+    font-family: 'New Tegomin', serif;
   background-attachment: fixed;
 }
 
 #hiscore
 {
+    font-family: 'New Tegomin', serif;
   position: absolute;
   top:65px;
   right:50px;
